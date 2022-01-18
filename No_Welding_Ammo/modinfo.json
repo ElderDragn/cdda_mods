@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "No_Welding_Ammo",
+    "name": "No Welding Ammo",
+    "authors": [
+      "ElderDragn"
+    ],
+    "description": "Removes requirement for welding rods/wires, allowing for the old easy welding",
+    "category": "rebalance",
+    "dependencies": [
+      "dda"
+    ]
+  }
+]
